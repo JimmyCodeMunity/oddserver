@@ -1,0 +1,652 @@
+[
+  {
+    "index": 1,
+    "league": "International • Int. Friendly ...",
+    "kickoff": "03/10, 18:00",
+    "home": "Russia",
+    "away": "Namibia",
+    "odds": {
+      "home": "1.09",
+      "draw": "8.40",
+      "away": "21.00"
+    },
+    "markets": 61
+  },
+  {
+    "index": 2,
+    "league": "International • Int. Friendly ...",
+    "kickoff": "03/10, 21:00",
+    "home": "Canada",
+    "away": "Peru",
+    "odds": {
+      "home": "1.49",
+      "draw": "4.20",
+      "away": "6.00"
+    },
+    "markets": 79
+  },
+  {
+    "index": 3,
+    "league": "International • Int. Friendly ...",
+    "kickoff": "03/10, 22:00",
+    "home": "Ivory Coast",
+    "away": "Cameroon",
+    "odds": {
+      "home": "1.79",
+      "draw": "3.20",
+      "away": "4.80"
+    },
+    "markets": 62
+  },
+  {
+    "index": 4,
+    "league": "International • UEFA Nations L...",
+    "kickoff": "03/10, 19:00",
+    "home": "Croatia",
+    "away": "England",
+    "odds": {
+      "home": "4.80",
+      "draw": "4.00",
+      "away": "1.71"
+    },
+    "markets": 82
+  },
+  {
+    "index": 5,
+    "league": "International • UEFA Nations L...",
+    "kickoff": "03/10, 19:00",
+    "home": "Belarus",
+    "away": "San Marino",
+    "odds": {
+      "home": "1.07",
+      "draw": "12.00",
+      "away": "45.00"
+    },
+    "markets": 71
+  },
+  {
+    "index": 6,
+    "league": "International • UEFA Nations L...",
+    "kickoff": "03/10, 19:00",
+    "home": "Iceland",
+    "away": "Bulgaria",
+    "odds": {
+      "home": "1.44",
+      "draw": "4.70",
+      "away": "7.40"
+    },
+    "markets": 76
+  },
+  {
+    "index": 7,
+    "league": "International • UEFA Nations L...",
+    "kickoff": "03/10, 21:45",
+    "home": "Spain",
+    "away": "Czech Republic",
+    "odds": {
+      "home": "1.06",
+      "draw": "14.00",
+      "away": "40.00"
+    },
+    "markets": 79
+  },
+  {
+    "index": 8,
+    "league": "International • UEFA Nations L...",
+    "kickoff": "03/10, 21:45",
+    "home": "Switzerland",
+    "away": "Slovenia",
+    "odds": {
+      "home": "1.30",
+      "draw": "5.60",
+      "away": "11.00"
+    },
+    "markets": 81
+  },
+  {
+    "index": 9,
+    "league": "International • UEFA Nations L...",
+    "kickoff": "03/10, 19:00",
+    "home": "Estonia",
+    "away": "Luxembourg",
+    "odds": {
+      "home": "3.05",
+      "draw": "3.05",
+      "away": "2.60"
+    },
+    "markets": 76
+  },
+  {
+    "index": 10,
+    "league": "International • UEFA Nations L...",
+    "kickoff": "03/10, 21:45",
+    "home": "North Macedonia",
+    "away": "Scotland",
+    "odds": {
+      "home": "6.00",
+      "draw": "3.70",
+      "away": "1.66"
+    },
+    "markets": 82
+  },
+  {
+    "index": 11,
+    "league": "International • Gulf Cup",
+    "kickoff": "03/10, 18:55",
+    "home": "Saudi Arabia",
+    "away": "Qatar",
+    "odds": {
+      "home": "1.73",
+      "draw": "3.40",
+      "away": "4.60"
+    },
+    "markets": 44
+  },
+  {
+    "index": 12,
+    "league": "International • Gulf Cup",
+    "kickoff": "03/10, 21:30",
+    "home": "Uae",
+    "away": "Oman",
+    "odds": {
+      "home": "1.57",
+      "draw": "3.80",
+      "away": "5.20"
+    },
+    "markets": 44
+  },
+  {
+    "index": 13,
+    "league": "International • Int. Friendly ...",
+    "kickoff": "04/10, 03:00",
+    "home": "Argentina",
+    "away": "Burkina Faso",
+    "odds": {
+      "home": "1.05",
+      "draw": "10.00",
+      "away": "29.00"
+    },
+    "markets": 71
+  },
+  {
+    "index": 14,
+    "league": "Canada • Canadian Premier Leag...",
+    "kickoff": "03/10, 19:00",
+    "home": "York United",
+    "away": "Cavalry",
+    "odds": {
+      "home": "4.50",
+      "draw": "4.20",
+      "away": "1.58"
+    },
+    "markets": 43
+  },
+  {
+    "index": 15,
+    "league": "Scotland • League 1",
+    "kickoff": "03/10, 19:30",
+    "home": "Hamilton Academic...",
+    "away": "Peterhead Fc",
+    "odds": {
+      "home": "1.39",
+      "draw": "4.50",
+      "away": "6.80"
+    },
+    "markets": 62
+  },
+  {
+    "index": 16,
+    "league": "Northern Ireland • Championshi...",
+    "kickoff": "03/10, 20:00",
+    "home": "Moyola Park",
+    "away": "Glenavon Fc",
+    "odds": {
+      "home": "4.90",
+      "draw": "4.20",
+      "away": "1.53"
+    },
+    "markets": 19
+  },
+  {
+    "index": 17,
+    "league": "Brazil • Brasileiro Serie B",
+    "kickoff": "03/10, 22:00",
+    "home": "Ac Goianiense",
+    "away": "America Mg",
+    "odds": {
+      "home": "1.33",
+      "draw": "4.80",
+      "away": "7.60"
+    },
+    "markets": 71
+  },
+  {
+    "index": 18,
+    "league": "Brazil • Brasileiro Serie B",
+    "kickoff": "03/10, 23:00",
+    "home": "Cuiaba Esporte Cl...",
+    "away": "Ponte Preta",
+    "odds": {
+      "home": "1.15",
+      "draw": "6.60",
+      "away": "14.00"
+    },
+    "markets": 69
+  },
+  {
+    "index": 19,
+    "league": "Italy • Serie C, Group C",
+    "kickoff": "03/10, 21:30",
+    "home": "Calcio Catania",
+    "away": "Fc Crotone",
+    "odds": {
+      "home": "1.54",
+      "draw": "3.85",
+      "away": "5.60"
+    },
+    "markets": 44
+  },
+  {
+    "index": 20,
+    "league": "Colombia • Liga DIMAYOR",
+    "kickoff": "03/10, 22:00",
+    "home": "Aguilas",
+    "away": "Jaguares",
+    "odds": {
+      "home": "1.49",
+      "draw": "4.10",
+      "away": "5.80"
+    },
+    "markets": 67
+  },
+  {
+    "index": 21,
+    "league": "Canada • Canadian Premier Leag...",
+    "kickoff": "03/10, 23:00",
+    "home": "Forge Hamilton",
+    "away": "Wanderers",
+    "odds": {
+      "home": "1.48",
+      "draw": "4.20",
+      "away": "5.60"
+    },
+    "markets": 43
+  },
+  {
+    "index": 22,
+    "league": "Paraguay • Division de Honor",
+    "kickoff": "03/10, 23:00",
+    "home": "Club Guarani Asun...",
+    "away": "Sportivo San Lore...",
+    "odds": {
+      "home": "1.43",
+      "draw": "4.20",
+      "away": "6.60"
+    },
+    "markets": 44
+  },
+  {
+    "index": 23,
+    "league": "Ecuador • Serie B",
+    "kickoff": "03/10, 23:30",
+    "home": "Portoviejo",
+    "away": "El Nacional",
+    "odds": {
+      "home": "1.49",
+      "draw": "3.85",
+      "away": "6.00"
+    },
+    "markets": 19
+  },
+  {
+    "index": 24,
+    "league": "Uruguay • Primera Division",
+    "kickoff": "04/10, 00:00",
+    "home": "Deportivo Maldona...",
+    "away": "Central Espanol",
+    "odds": {
+      "home": "1.59",
+      "draw": "3.85",
+      "away": "5.00"
+    },
+    "markets": 62
+  },
+  {
+    "index": 25,
+    "league": "El Salvador • Primera Division...",
+    "kickoff": "04/10, 00:00",
+    "home": "Aguila San Miguel...",
+    "away": "Cd Cacahuatique",
+    "odds": {
+      "home": "1.52",
+      "draw": "3.85",
+      "away": "5.40"
+    },
+    "markets": 32
+  },
+  {
+    "index": 26,
+    "league": "International • Concacaf Natio...",
+    "kickoff": "04/10, 00:00",
+    "home": "Sint Maarten",
+    "away": "Saint Vincent And...",
+    "odds": {
+      "home": "4.00",
+      "draw": "3.55",
+      "away": "1.79"
+    },
+    "markets": 43
+  },
+  {
+    "index": 27,
+    "league": "Colombia • Liga DIMAYOR",
+    "kickoff": "04/10, 00:05",
+    "home": "Tolima",
+    "away": "Boyaca Chico",
+    "odds": {
+      "home": "1.29",
+      "draw": "4.80",
+      "away": "9.20"
+    },
+    "markets": 66
+  },
+  {
+    "index": 28,
+    "league": "Bolivia • Copa Bolivia",
+    "kickoff": "04/10, 00:15",
+    "home": "Ca Nacional Potos...",
+    "away": "Cdt Real Oruro",
+    "odds": {
+      "home": "1.28",
+      "draw": "5.80",
+      "away": "7.40"
+    },
+    "markets": 60
+  },
+  {
+    "index": 29,
+    "league": "Mexico • Liga Premier Serie A",
+    "kickoff": "04/10, 01:00",
+    "home": "Artesanos Metepec...",
+    "away": "Canoneros Marina",
+    "odds": {
+      "home": "1.05",
+      "draw": "8.40",
+      "away": "30.00"
+    },
+    "markets": 31
+  },
+  {
+    "index": 30,
+    "league": "El Salvador • Primera Division...",
+    "kickoff": "04/10, 02:00",
+    "home": "Ad Isidro Metapan...",
+    "away": "Atletico Balboa",
+    "odds": {
+      "home": "1.43",
+      "draw": "4.20",
+      "away": "6.20"
+    },
+    "markets": 32
+  },
+  {
+    "index": 31,
+    "league": "Colombia • Copa DIMAYOR",
+    "kickoff": "04/10, 02:10",
+    "home": "Barranquilla",
+    "away": "Millonarios",
+    "odds": {
+      "home": "5.80",
+      "draw": "4.10",
+      "away": "1.48"
+    },
+    "markets": 60
+  },
+  {
+    "index": 32,
+    "league": "USA • USL Championship",
+    "kickoff": "04/10, 02:30",
+    "home": "Tampa Bay Rowdies...",
+    "away": "Miami Fc",
+    "odds": {
+      "home": "1.36",
+      "draw": "4.80",
+      "away": "6.80"
+    },
+    "markets": 43
+  },
+  {
+    "index": 33,
+    "league": "Bolivia • Copa Bolivia",
+    "kickoff": "04/10, 02:30",
+    "home": "The Strongest",
+    "away": "Fc Universitario ...",
+    "odds": {
+      "home": "1.45",
+      "draw": "4.50",
+      "away": "5.60"
+    },
+    "markets": 60
+  },
+  {
+    "index": 34,
+    "league": "Mexico • Liga Premier Serie A",
+    "kickoff": "04/10, 03:00",
+    "home": "Dragones De Oaxac...",
+    "away": "Real Refineros Cd...",
+    "odds": {
+      "home": "1.45",
+      "draw": "4.50",
+      "away": "5.40"
+    },
+    "markets": 32
+  },
+  {
+    "index": 35,
+    "league": "Mexico • Liga Primera Premier",
+    "kickoff": "04/10, 03:00",
+    "home": "Tigres De Alica F...",
+    "away": "H2o Purepechas Fc...",
+    "odds": {
+      "home": "1.33",
+      "draw": "4.70",
+      "away": "7.20"
+    },
+    "markets": 32
+  },
+  {
+    "index": 36,
+    "league": "Mexico • Liga de Expansion MX",
+    "kickoff": "04/10, 04:00",
+    "home": "Atletico Morelia",
+    "away": "Tlaxcala Fc",
+    "odds": {
+      "home": "1.44",
+      "draw": "4.50",
+      "away": "5.80"
+    },
+    "markets": 44
+  },
+  {
+    "index": 37,
+    "league": "Mexico • Liga de Expansion MX",
+    "kickoff": "04/10, 04:00",
+    "home": "Piratas Veracruz",
+    "away": "Oaxaca",
+    "odds": {
+      "home": "1.27",
+      "draw": "5.20",
+      "away": "9.40"
+    },
+    "markets": 43
+  },
+  {
+    "index": 38,
+    "league": "USA • USL League One",
+    "kickoff": "04/10, 04:00",
+    "home": "Spokane Velocity ...",
+    "away": "Portland Hearts O...",
+    "odds": {
+      "home": "1.61",
+      "draw": "4.00",
+      "away": "4.30"
+    },
+    "markets": 32
+  },
+  {
+    "index": 39,
+    "league": "Guatemala • Primera Division",
+    "kickoff": "04/10, 04:00",
+    "home": "Nueva Santa Rosa ...",
+    "away": "Cd Sayaxche",
+    "odds": {
+      "home": "1.56",
+      "draw": "3.70",
+      "away": "5.20"
+    },
+    "markets": 19
+  },
+  {
+    "index": 40,
+    "league": "International Clubs • Club Fri...",
+    "kickoff": "03/10, 17:30",
+    "home": "Fc Orenburg",
+    "away": "Tekstilshchik Iva...",
+    "odds": {
+      "home": "1.63",
+      "draw": "3.85",
+      "away": "4.70"
+    },
+    "markets": 3
+  },
+  {
+    "index": 41,
+    "league": "International Clubs • Club Fri...",
+    "kickoff": "03/10, 18:00",
+    "home": "Yellow-red Kv Mec...",
+    "away": "Karpaty Lviv",
+    "odds": {
+      "home": "2.18",
+      "draw": "3.40",
+      "away": "3.00"
+    },
+    "markets": 43
+  },
+  {
+    "index": 42,
+    "league": "International Clubs • Club Fri...",
+    "kickoff": "03/10, 19:00",
+    "home": "Aek Larnaca",
+    "away": "Apollon Limassol",
+    "odds": {
+      "home": "2.11",
+      "draw": "3.50",
+      "away": "3.00"
+    },
+    "markets": 43
+  },
+  {
+    "index": 43,
+    "league": "International Clubs • Club Fri...",
+    "kickoff": "03/10, 19:00",
+    "home": "Brest",
+    "away": "Monza",
+    "odds": {
+      "home": "2.34",
+      "draw": "3.50",
+      "away": "2.65"
+    },
+    "markets": 43
+  },
+  {
+    "index": 44,
+    "league": "International Youth • U21 UEFA...",
+    "kickoff": "03/10, 20:00",
+    "home": "France U21",
+    "away": "Luxemburg U21",
+    "odds": {
+      "home": "1.03",
+      "draw": "12.00",
+      "away": "50.00"
+    },
+    "markets": 34
+  },
+  {
+    "index": 45,
+    "league": "Brazil • Brasileiro Serie A",
+    "kickoff": "04/10, 00:30",
+    "home": "Atletico Mineiro ...",
+    "away": "Red Bull Braganti...",
+    "odds": {
+      "home": "1.93",
+      "draw": "3.50",
+      "away": "3.65"
+    },
+    "markets": 79
+  },
+  {
+    "index": 46,
+    "league": "Brazil • Brasileiro Serie B",
+    "kickoff": "04/10, 00:30",
+    "home": "Botafogo Sp",
+    "away": "Vila Nova",
+    "odds": {
+      "home": "2.42",
+      "draw": "2.90",
+      "away": "3.00"
+    },
+    "markets": 71
+  },
+  {
+    "index": 47,
+    "league": "Spain • LaLiga 2",
+    "kickoff": "03/10, 19:30",
+    "home": "Sabadell Fc",
+    "away": "Andorra",
+    "odds": {
+      "home": "1.92",
+      "draw": "3.15",
+      "away": "4.10"
+    },
+    "markets": 78
+  },
+  {
+    "index": 48,
+    "league": "Spain • LaLiga 2",
+    "kickoff": "03/10, 19:30",
+    "home": "Cadiz",
+    "away": "Leganes",
+    "odds": {
+      "home": "2.70",
+      "draw": "3.10",
+      "away": "2.60"
+    },
+    "markets": 78
+  },
+  {
+    "index": 49,
+    "league": "Uruguay • Primera Division",
+    "kickoff": "03/10, 21:00",
+    "home": "Albion Fc",
+    "away": "Defensor Sporting...",
+    "odds": {
+      "home": "2.80",
+      "draw": "3.20",
+      "away": "2.37"
+    },
+    "markets": 62
+  },
+  {
+    "index": 50,
+    "league": "Netherlands • Eerste Divisie",
+    "kickoff": "03/10, 17:30",
+    "home": "Top Oss",
+    "away": "Mvv Maastricht",
+    "odds": {
+      "home": "2.27",
+      "draw": "3.50",
+      "away": "2.80"
+    },
+    "markets": 66
+  }
+]

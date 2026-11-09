@@ -1,0 +1,163 @@
+[
+  {
+    "index": 1,
+    "name": "Soccer",
+    "icon": "soccer",
+    "isActive": true,
+    "isHidden": false
+  },
+  {
+    "index": 2,
+    "name": "Table Tennis",
+    "icon": "table_tennis",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 3,
+    "name": "Boxing",
+    "icon": "boxing",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 4,
+    "name": "Baseball",
+    "icon": "baseball",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 5,
+    "name": "Ice Hockey",
+    "icon": "ice_hockey",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 6,
+    "name": "American Football",
+    "icon": "american_football",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 7,
+    "name": "eSoccer",
+    "icon": "esoccer",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 8,
+    "name": "Basketball",
+    "icon": "basketball",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 9,
+    "name": "Handball",
+    "icon": "handball",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 10,
+    "name": "Rugby",
+    "icon": "rugby",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 11,
+    "name": "Cricket",
+    "icon": "cricket",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 12,
+    "name": "ESport Honor of Kings",
+    "icon": "esport_honor_of_kings",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 13,
+    "name": "Tennis",
+    "icon": "tennis",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 14,
+    "name": "Aussie Rules",
+    "icon": "aussie_rules",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 15,
+    "name": "Floorball",
+    "icon": "floorball",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 16,
+    "name": "Volleyball",
+    "icon": "volleyball",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 17,
+    "name": "ESport League of Legends",
+    "icon": "esport_league_of_legends",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 18,
+    "name": "ESport Dota",
+    "icon": "esport_dota",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 19,
+    "name": "Darts",
+    "icon": "darts",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 20,
+    "name": "Bandy",
+    "icon": "bandy",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 21,
+    "name": "ESport Counter-Strike",
+    "icon": "esport_counter_strike",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 22,
+    "name": "Futsal",
+    "icon": "futsal",
+    "isActive": false,
+    "isHidden": false
+  },
+  {
+    "index": 23,
+    "name": "Zoom Soccer",
+    "icon": "zoom_soccer",
+    "isActive": false,
+    "isHidden": false
+  }
+]
